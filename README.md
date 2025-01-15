@@ -45,10 +45,10 @@ If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
 
-2. Create a new branch (git checkout -b feature/AmazingFeature).
+2. Create a new branch (bash```git checkout -b feature/AmazingFeature```).
 
-3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Commit your changes (bash```git commit -m 'Add some AmazingFeature'```).
 
-4. Push the branch (git push origin feature/AmazingFeature).
+5. Push the branch (bash```git push origin feature/AmazingFeature```).
 
-5. Open a Pull Request.
+6. Open a Pull Request.
